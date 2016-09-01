@@ -2,4 +2,4 @@
 
 Hi Guys
 
-Tedy here, and welcome to my website
+Tedy here, and welcome to my GITHUB
