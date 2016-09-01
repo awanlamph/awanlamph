@@ -1,2 +1,5 @@
 # awanlamph
-my project
+
+Hi Guys
+
+Tedy here, and welcome to my website
